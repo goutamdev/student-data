@@ -1,0 +1,39 @@
+# 🌍 Data Visualization for Higher Study Abroad Admission Seekers
+
+This project presents insightful, interactive data visualizations to help students aspiring to study abroad make smarter, data-driven decisions. It simplifies comparisons between countries, universities, and admission factors using easy-to-understand charts and graphs.
+
+## 🚀 Live Site
+Check it out on Netlify: [https://higherstudydata.netlify.app](https://higherstudydata.netlify.app)  
+
+
+---
+
+## 📌 Features
+
+- 📊 **Interactive Visualizations** – Admission rates, costs, scholarships, test requirements, etc.
+- 🌐 **Country Comparisons** – Compare destinations based on admission stats and visa success.
+- 🏫 **University Insights** – Visualize top universities by ranking, tuition, and acceptance trends.
+- 💰 **Cost Analysis** – See tuition, living costs, and scholarship availability.
+- 📈 **Trends Over Time** – Understand historical shifts in student migration and admissions.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML/CSS/JavaScript**
+- **Plotly.js**
+- **Git & GitHub for version control**
+- **Netlify for deployment**
+
+---
+
+## 📂 Folder Structure
+
+project/
+│
+├── education_costs.csv
+├── index.html
+└── charts/
+    ├── India.png
+    ├── Japan.png
+    └── ...
